@@ -1,1 +1,10 @@
-streamlit
+streamlit>=1.33
+pydicom>=2.4
+pillow
+numpy
+pandas
+# Per decodificare JPEG2000/RLE (consigliato):
+pylibjpeg
+pylibjpeg-libjpeg
+pylibjpeg-openjpeg
+
